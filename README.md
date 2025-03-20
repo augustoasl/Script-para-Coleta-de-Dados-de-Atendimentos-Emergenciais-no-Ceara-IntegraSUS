@@ -1,0 +1,1 @@
+# Script-para-Coleta-de-Dados-de-Atendimentos-Emergenciais-no-Ceara-IntegraSUS
